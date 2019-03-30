@@ -1,2 +1,4 @@
-# maven
-EMC maven repo
+EMC Framework maven repo
+===================
+
+Maven repo for EMC projects
