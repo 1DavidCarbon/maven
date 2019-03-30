@@ -1,0 +1,48 @@
+{
+    "1.13.2": {
+        "version": "13.8.3-1.13.2",
+        "inheritsFrom": "1.13.2",
+        "tweaker": "me.deftware.launch.Launcher",
+        "subsystem": false,
+        "mainClass": "",
+        "extraLibs": {},
+        "forge": false
+    },
+    "1.13.1": {
+        "version": "13.7.6-1.13.1",
+        "inheritsFrom": "1.13.1",
+        "tweaker": "me.deftware.launch.Launcher",
+        "subsystem": false,
+        "mainClass": "",
+        "extraLibs": {},
+        "forge": false
+    },
+    "1.13": {
+        "version": "13.7.6-1.13",
+        "inheritsFrom": "1.13",
+        "extraLibs": {},
+        "subsystem": false,
+        "mainClass": "",
+        "tweaker": "me.deftware.launch.Launcher",
+        "forge": false
+    },
+    "1.12.2": {
+        "version": "13.5.6-1.12.2",
+        "inheritsFrom": "1.12.2",
+        "extraLibs": {},
+        "mainClass": "",
+        "subsystem": false,
+        "tweaker": "me.deftware.launch.Launcher",
+        "forge": true
+    },
+    "19w11b": {
+        "version": "13.8.3-19w12a",
+        "inheritsFrom": "19w11b",
+        "tweaker": "",
+        "subsystem": true,
+        "mappings": "19w11b.4",
+        "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
+        "extraLibs": {},
+        "forge": false
+    }
+}
